@@ -1017,6 +1017,8 @@ api/users/1/favorites
 api/users/1/feedback
 api/users/1/feedback/1
 api/users/1/feedback/submit
+api/support/redirect?redirect=
+/api/support/redirect?redirect=
 api/users/1/files
 api/users/1/files/download
 api/users/1/files/upload
