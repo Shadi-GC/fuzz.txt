@@ -85,6 +85,8 @@
 .env.example.bak
 .env.example.bkp
 .env.example.old
+/api-docs/?url=
+api-docs/?url=
 .env.ini
 .env.json
 .env.local
