@@ -113,6 +113,7 @@
 .env.staging
 .env.test
 .env.test.bak
+/api-docs/?url=
 .env.test.bkp
 .env.test.local
 .env.test.old
@@ -161,6 +162,8 @@
 .hidden_secrets.py
 .history
 .htaccess
+/.git/
+.git/
 .htaccess.bak
 .htaccess.save
 .htdeployment
@@ -176,11 +179,15 @@
 .idea/workspace.xml
 .keycloak.json
 .keys.yml
+/config.js
+config.js
 .keys.yml.swp
 .kube/config
 .lgtm.yml
 .local_settings.py
 .mailmap
+/internal
+internal
 .mongodb.conf
 .msmtprc
 .mvn
