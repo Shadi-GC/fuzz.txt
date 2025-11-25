@@ -3271,6 +3271,8 @@ ios/Runner/GoogleService-Info.plist
 ios/Runner/Info.plist
 ip-filtering.json
 itop/setup/wizard.php
+/api/v1/passwords/
+api/v1/passwords/
 jackett/UI/Dashboard
 jdbc.sh
 jdkstatus
