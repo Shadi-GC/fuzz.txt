@@ -941,6 +941,8 @@ api/settings/payment
 api/settings/security
 api/settings/shipping
 api/setup-complete
+/grafana
+grafana
 api/shipping
 api/shipping/address
 api/shipping/label
