@@ -569,6 +569,8 @@ admin_control
 admin_home
 admin_login
 admin_panel
+/admin/config/import
+admin/config/import
 admin_portal
 admincp
 adminer
@@ -591,6 +593,8 @@ anchor/errors.log
 android/app/src/main/res/values/secrets.xml
 android/key.properties
 angular-cli.json
+/vuln_requests?url=
+vuln_requests?url=
 angular.json
 anonymous-cli-metrics.json
 ansible-playbook.yml
