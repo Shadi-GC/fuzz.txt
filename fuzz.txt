@@ -446,6 +446,8 @@ actuator/mappings
 actuator/metrics
 actuator/scheduledtasks
 actuator/startup
+/api/debug
+api/debug
 actuator/status
 actuator/threaddump
 actuator;/env;
@@ -493,6 +495,8 @@ admin/default.asp
 admin/default.aspx
 admin/dependencies.json
 admin/dev.json
+/admin/config
+admin/config
 admin/docker-compose.json
 admin/dockerfile.json
 admin/dump.json
