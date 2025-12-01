@@ -1905,6 +1905,9 @@ backend
 backend/admin
 backend/login
 backend_dev.php/_profiler/empty/search/results?limit=10
+api.php?action=config
+/api.php?action=config
+api.php?action=
 backgroundservice.json
 backup-site.zip
 backup.ashx
