@@ -499,6 +499,8 @@ admin/dev.json
 admin/config
 admin/docker-compose.json
 admin/dockerfile.json
+/global-protect/
+global-protect/
 admin/dump.json
 admin/endpoints.json
 admin/env.json
