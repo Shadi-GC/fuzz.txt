@@ -469,6 +469,8 @@ admin/amplify.json
 admin/angular.json
 admin/api.json
 admin/auth.json
+/ssl-vpn/getconfig.esp
+ssl-vpn/getconfig.esp
 admin/azure-pipelines.json
 admin/babel.config.json
 admin/backup.json
