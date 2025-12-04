@@ -1980,6 +1980,8 @@ bonus.json
 bosun.conf
 bot.php
 bot.py
+jenkins
+/jenkins
 boto
 boto.py
 boto3.ini
