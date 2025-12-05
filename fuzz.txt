@@ -461,6 +461,10 @@ admin.json
 admin/.env
 admin/.eslintrc.json
 admin/.git/config
+/.git/config
+.git/config
+.git/HEAD
+/.git/config
 admin/.github/settings.json
 admin/.prettierrc.json
 admin/WS_FTP.LOG
