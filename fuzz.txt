@@ -490,6 +490,7 @@ admin/config.asp
 admin/config.aspx
 admin/config.inc
 admin/config.js
+config.js
 admin/config.json
 admin/credentials.json
 admin/dashboard
