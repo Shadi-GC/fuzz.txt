@@ -370,6 +370,7 @@ Trace.axd
 UI/Dashboard
 Unknown
 Vagrantfile
+jenkins
 ValidationKey.config
 WEB.CONFIG
 WS_FTP.LOG
