@@ -12,6 +12,8 @@
 .azure-pipelines.yml
 .babelrc.json
 .backup.ashx
+fetch
+logo
 .backup.asp
 .backup.aspx
 .backup_config.py
