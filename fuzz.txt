@@ -272,6 +272,10 @@ internal
 404.aspx
 500.asp
 500.aspx
+struts/
+/struts/
+vendor/phpunit/
+/vendor/phpunit/
 ARM-template.json
 AccountCredentials.json
 Admin/frmWelcome.aspx
