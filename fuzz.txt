@@ -187,6 +187,7 @@ api-docs/?url=
 /config.js
 config.js
 .keys.yml.swp
+phpunit-rce.php
 .kube/config
 .lgtm.yml
 .local_settings.py
