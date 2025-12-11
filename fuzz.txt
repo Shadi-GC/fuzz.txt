@@ -136,6 +136,7 @@ api-docs/?url=
 .git/config
 .git/config.backup
 .git/config.json
+api/debug-info
 .git/logs/HEAD
 .git/objects.json
 .gitconfig
