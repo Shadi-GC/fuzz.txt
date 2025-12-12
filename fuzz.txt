@@ -240,6 +240,7 @@ internal
 .styleci.yml
 .svn/entries
 .svn/wc.db
+admin/config/import
 .tfvars
 .tox
 .travis.yml
