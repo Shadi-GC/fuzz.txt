@@ -325,6 +325,8 @@ Dockerfile.bak
 Dockerfile.build
 Dockerfile.deploy
 Dockerfile.dev
+dashboard.php
+auth/login
 Dockerfile.env
 Dockerfile.old
 Dockerfile.orig
