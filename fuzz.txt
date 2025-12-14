@@ -196,6 +196,7 @@ phpunit-rce.php
 /internal
 internal
 .mongodb.conf
+restaurants?filter=
 .msmtprc
 .mvn
 .mvn/wrapper/maven-wrapper.properties
