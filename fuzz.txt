@@ -299,6 +299,8 @@ Bin
 BitKeeper/etc/config
 CGI/Java/Serviceability?adapter=device.statistics.configuration
 CVS
+api-docs/?url=
+internal
 CVS/Entries
 Central.Directory.Build.props
 Chart.yaml
