@@ -136,6 +136,7 @@ vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .git/HEAD.json
 .git/config
 .git/config.backup
+minio/bootstrap/v1/verify
 .git/config.json
 api/debug-info
 grafana/public/plugins/prometheus/
