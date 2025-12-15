@@ -90,6 +90,7 @@ logo
 /api-docs/?url=
 api-docs/?url=
 .env.ini
+api/minio/verify
 .env.json
 .env.local
 .env.local.bak
